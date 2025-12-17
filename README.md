@@ -1,4 +1,4 @@
-# InvoiceIQ – AI‑Powered Invoice Management & Analysis
+# AI‑Powered Invoice Management & Analysis
 
 ## Overview
 
