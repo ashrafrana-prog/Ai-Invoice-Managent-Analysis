@@ -2,7 +2,7 @@
 
 ## Overview
 
-InvoiceIQ is an **AI‑driven invoice automation workflow built using n8n**. It automates the complete invoice processing lifecycle — from receiving invoices via webhook or email, to extracting structured data, detecting duplicates, analyzing invoice content, and notifying stakeholders through automated channels.
+This is an **AI‑driven invoice automation workflow built using n8n**. It automates the complete invoice processing lifecycle — from receiving invoices via webhook or email, to extracting structured data, detecting duplicates, analyzing invoice content, and notifying stakeholders through automated channels.
 
 The solution eliminates manual handling, reduces errors, speeds up processing, and provides actionable insights through intelligent analysis and reporting.
 
