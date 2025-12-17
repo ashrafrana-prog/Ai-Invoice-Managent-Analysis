@@ -101,6 +101,7 @@ The solution eliminates manual handling, reduces errors, speeds up processing, a
 
    * `OPENAI_API_KEY`
    * `MISTRAL_API_KEY`
+   * `LOVEABLE_API_KEY`
    * Gmail credentials
 4. Activate webhook and Gmail triggers
 5. Test the workflow with a sample invoice
