@@ -1,7 +1,8 @@
 **AI-Invoice Management & Analysis Workflow**
 
 An intelligent n8n automation workflow that processes invoices, extracts data using AI, performs analysis, and sends reports and notifications for management reviews and decision making
-Overview
+
+**Overview**
 This workflow automates the complete invoice processing lifecycle - from receiving invoices via webhook to extracting data, detecting duplicates, analyzing content, and notifying stakeholders through selected channels 
 
 **Features**
