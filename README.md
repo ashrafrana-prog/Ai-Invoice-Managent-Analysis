@@ -118,8 +118,8 @@ The solution eliminates manual handling, reduces errors, speeds up processing, a
 
 ## Demo
 
-* 🎥 **Video Walkthrough:** *(Add Loom / YouTube link here)*
-* 📊 **Dashboard Preview:** *https://cyber-invoice-dash.lovable.app*
+* 🎥 **Video Walkthrough:** *https://github.com/ashrafrana-prog/Ai-Invoice-Managent-Analysis/blob/main/AI-Invoice%20Management.mp4*
+*  * 📊 **Dashboard Preview:** *https://cyber-invoice-dash.lovable.app*
 
 ---
 
