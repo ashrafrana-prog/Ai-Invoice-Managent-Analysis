@@ -77,6 +77,7 @@ The solution eliminates manual handling, reduces errors, speeds up processing, a
 
 * **Automation Platform:** n8n
 * **AI Models:** OpenAI, Mistral OCR
+* **Analytics Dashboard:** Loveable 
 * **Email Integration:** Gmail
 * **Data Processing:** JSON, HTML
 * **Deployment:** Self‑hosted / Cloud‑hosted n8n
